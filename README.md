@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
