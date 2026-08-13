@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0771-jewels-and-stones](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
