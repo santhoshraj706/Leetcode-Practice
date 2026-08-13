@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0867-transpose-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## Backtracking
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
