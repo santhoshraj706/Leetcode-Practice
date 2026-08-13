@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1572-matrix-diagonal-sum](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2460-apply-operations-to-an-array](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -133,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
