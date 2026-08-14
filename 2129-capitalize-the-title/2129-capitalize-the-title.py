@@ -1,6 +1,17 @@
 class Solution(object):
     def capitalizeTitle(self, title):
-        return ' '.join(
-            word.capitalize() if len(word)>2 else word.lower()
-            for word in title.split()
-        )
+        """
+        :type title: str
+        :rtype: str
+        """
+        l=""
+        for i in title.lower().split():
+            if len(i)>2:
+                l+=i.capitalize()+" "
+            else:
+                l+=i+" "
+        l=l.strip()
+        return l
+
+
+        
