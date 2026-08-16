@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0268-missing-number) |
 | [2029-stone-game-ix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2029-stone-game-ix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
