@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Segment Tree
