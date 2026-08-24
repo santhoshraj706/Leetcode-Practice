@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1563-stone-game-v](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1572-matrix-diagonal-sum) |
+| [1872-stone-game-viii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2460-apply-operations-to-an-array](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2460-apply-operations-to-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0268-missing-number) |
 | [1563-stone-game-v](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -174,11 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 ## Newton's Method
 |  |
@@ -197,4 +202,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
