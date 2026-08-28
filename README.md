@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2460-apply-operations-to-an-array) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
