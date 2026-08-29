@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2460-apply-operations-to-an-array](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
