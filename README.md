@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0771-jewels-and-stones) |
+| [0940-distinct-subsequences-ii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1927-sum-game) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
