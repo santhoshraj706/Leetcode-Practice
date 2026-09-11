@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0268-missing-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1563-stone-game-v](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1927-sum-game) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
 |  |
