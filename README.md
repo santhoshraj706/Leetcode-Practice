@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
