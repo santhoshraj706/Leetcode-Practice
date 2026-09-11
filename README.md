@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
