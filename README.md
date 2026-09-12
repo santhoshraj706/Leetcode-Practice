@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
