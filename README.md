@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0771-jewels-and-stones) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
