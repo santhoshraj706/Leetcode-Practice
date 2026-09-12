@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0217-contains-duplicate) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
+| [0152-maximum-product-subarray](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/1872-stone-game-viii) |
