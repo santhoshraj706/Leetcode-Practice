@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0771-jewels-and-stones) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
