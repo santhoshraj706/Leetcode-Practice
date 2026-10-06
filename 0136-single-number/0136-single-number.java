@@ -1,14 +1,11 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashMap<Integer,Integer> freq=new HashMap<>();
-        for(int i:nums){
-            freq.put(i,freq.getOrDefault(i,0)+1);
+        int result = 0;
+
+        for (int num : nums) {
+            result ^= num;
         }
-        for(int key:freq.keySet()){
-            if(freq.get(key)==1){
-                return key;
-            }
-        }
-        return -1;
+
+        return result;
     }
 }
