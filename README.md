@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0125-valid-palindrome) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santhoshraj706/Leetcode-Practice/tree/master/0242-valid-anagram) |
